@@ -1,0 +1,1 @@
+Karı gördüm kaydım kaymaz olaydım
