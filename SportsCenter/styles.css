@@ -603,7 +603,11 @@
     border-radius: 5px;
   }
 
-  .googleMap iframe {
+  .input-container textarea {
+    resize: none; 
+}
+
+  .google-map iframe {
     width:150%;
     height: 100%;
   }
@@ -828,7 +832,7 @@
         width: 90%;
     }
   
-    .googleMap iframe {
+    .google-map iframe {
       padding-top: 2rem;
       width: 100%;
     }
