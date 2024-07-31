@@ -457,29 +457,6 @@
     transform: scale(1.05);
   }
 
-  .equipment-card::after {
-    position: absolute;
-    clip-path: inset(0 95% 0 0);  
-    content: "";
-    background-color: #325494;
-    width: 10rem;
-    height: 7rem;
-    top: 30%;
-    transition: .5s ease;
-  }
-
-  .equipment-card::before {
-    position: absolute;
-    content: "";
-    clip-path: inset(0 0 0 95%); 
-    background-color: #325494;
-    width: 10rem;
-    height: 7rem;
-    top: 30%;
-    right: 0%;
-    transition: .5s ease;
-  }
-
   .equipment-card:hover .trainer-layer {
     opacity: 1;
   }
