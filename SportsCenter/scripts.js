@@ -22,7 +22,7 @@ btn.addEventListener("click",(e) => {
             break;
            
         case "stretch":
-            strech();
+            stretch();
             break;
 
         default:
@@ -100,7 +100,7 @@ weight.addEventListener("input",() => {
 function changeBg() {
     let navbar = document.querySelector(".navbar-container");
     let scrollValue = window.scrollY;
-    if(scrollValue < 700) {
+    if(scrollValue < 500) {
         navbar.classList.remove('bgColor');
     } else {
         navbar.classList.add('bgColor');

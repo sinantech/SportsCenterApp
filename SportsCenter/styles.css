@@ -26,7 +26,8 @@
     top: 0;
     left: 0;
     z-index: 100;
-    background: transparent;
+    background: rgba(0, 0, 0, 0.8);
+    height: 72px;
   }
 
   .bgColor {
@@ -149,7 +150,7 @@
     color: var(--sc-txtcolor);
     font-weight: 800;
     text-align: center;
-    font-size: 25px;
+    font-size: 1rem;
   }
 
   .flex-container > div > p > span {
@@ -855,5 +856,5 @@
       width: 100%;
     }
   }
-  
-  
+
+
