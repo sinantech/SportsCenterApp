@@ -23,8 +23,7 @@ This project involves designing an interactive and user-friendly website for a s
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run the project on 'localhost:5173' by typing `npm run dev` in the terminal.
-4. Access the site here: [Sport Center Website](https://rabiacagli.github.io/Sport-Center/)
-
+4. Access the site here: https://app.netlify.com/sites/magenta-longma-29771d/overview
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
